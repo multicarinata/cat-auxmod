@@ -8,7 +8,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture="14th_aux_mod\data\vests\MA_ODST_Shoulders_Mech_TL_NOHQ.paa";
+	texture="14th_aux_mod\data\vests\MA_ODST_Vest_Maria_NOHQ.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -44,7 +44,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="14th_aux_mod\data\vests\MA_ODST_Shoulders_Universal_as.paa";
+	texture="14th_aux_mod\data\vests\MA_ODST_Vest_Universal_AS.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="14th_aux_mod\data\vests\MA_ODST_Shoulders_Mech_TL_SMDI.paa";
+	texture="14th_aux_mod\data\vests\MA_ODST_Vest_Maria_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{

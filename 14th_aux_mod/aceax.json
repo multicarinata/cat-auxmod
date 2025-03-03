@@ -1,0 +1,843 @@
+{
+  "Models": [
+    {
+      "P3dModel": "MA_Armor\\data\\Vests\\M52_ODST\\M52_ODST_Vest.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "14_M5",
+      "FirstConfigClassName": "14_M52_ODST_Vest_Base",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo7": {
+          "Action": 0,
+          "OptionName": "Chestplate",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Elle_co.paa",
+              "ValueName": "Elle",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1680"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Goldie_co.paa",
+              "ValueName": "Goldie",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_3120"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Grace_co.paa",
+              "ValueName": "Grace",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1920"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Izzard_co.paa",
+              "ValueName": "Izzard",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2160"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Jes_co.paa",
+              "ValueName": "Jes",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1200"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Nya_co.paa",
+              "ValueName": "Nya",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_720"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Rayne_co.paa",
+              "ValueName": "Rayne",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_3360"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Riley_co.paa",
+              "ValueName": "Riley",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2400"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Roxanne_co.paa",
+              "ValueName": "Roxanne",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2640"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Sasha_co.paa",
+              "ValueName": "Sasha",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_480"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Stella_co.paa",
+              "ValueName": "Stella",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_240"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Willow_co.paa",
+              "ValueName": "Willow",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2880"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Wizard_co.paa",
+              "ValueName": "Wizard",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1440"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Zia_co.paa",
+              "ValueName": "Zia",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_960"
+            },
+            {
+              "Value": "MA_Armor\\data\\Vests\\M52_ODST\\Color_Variants\\MA_ODST_Vest_co.paa",
+              "ValueName": "Base",
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Chimera_co.paa",
+              "ValueName": "Chimera",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_225"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Trooper_co.paa",
+              "ValueName": "Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Brandon_co.paa",
+              "ValueName": "Brandon",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1728"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Vest_Maria_co.paa",
+              "ValueName": "Maria",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1944"
+            }
+          ]
+        },
+        "camo8": {
+          "Action": 0,
+          "OptionName": "Shoulders",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_1_Corpsmaid_co.paa",
+              "ValueName": "Team 1 Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_80"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_1_TL_co.paa",
+              "ValueName": "Team 1 TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_160"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_1_Trooper_co.paa",
+              "ValueName": "Team 1 Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_2_Corpsmaid_co.paa",
+              "ValueName": "Team 2 Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_96"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_2_TL_co.paa",
+              "ValueName": "Team 2 TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_176"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_2_Trooper_co.paa",
+              "ValueName": "Team 2 Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_16"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_3_Corpsmaid_co.paa",
+              "ValueName": "Team 3 Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_112"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_3_TL_co.paa",
+              "ValueName": "Team 3 TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_192"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_3_Trooper_co.paa",
+              "ValueName": "Team 3 Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_32"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Actual_Corpsmaid_co.paa",
+              "ValueName": "Actual Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_144"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Actual_TL_co.paa",
+              "ValueName": "Actual TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_224"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Actual_Trooper_co.paa",
+              "ValueName": "Trooper",
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Pilot_Corpsmaid_co.paa",
+              "ValueName": "Pilot Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_128"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Pilot_TL_co.paa",
+              "ValueName": "Pilot TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_208"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Pilot_Trooper_co.paa",
+              "ValueName": "Pilot Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_48"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Mech_Corpsmaid_co.paa",
+              "ValueName": "Mech Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_60"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Mech_Trooper_co.paa",
+              "ValueName": "Mech Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_24"
+            }
+          ]
+        },
+        "camo9": {
+          "Action": 0,
+          "OptionName": "Shoulders",
+          "OptionValue": "Test",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_1_Corpsmaid_co.paa",
+              "ValueName": "Team 1 Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_80"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_1_TL_co.paa",
+              "ValueName": "Team 1 TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_160"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_1_Trooper_co.paa",
+              "ValueName": "Team 1 Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_2_Corpsmaid_co.paa",
+              "ValueName": "Team 2 Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_96"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_2_TL_co.paa",
+              "ValueName": "Team 2 TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_176"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_2_Trooper_co.paa",
+              "ValueName": "Team 2 Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_16"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_3_Corpsmaid_co.paa",
+              "ValueName": "Team 3 Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_112"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_3_TL_co.paa",
+              "ValueName": "Team 3 TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_192"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_3_Trooper_co.paa",
+              "ValueName": "Team 3 Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_32"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Actual_Corpsmaid_co.paa",
+              "ValueName": "Actual Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_144"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Actual_TL_co.paa",
+              "ValueName": "Actual TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_224"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Actual_Trooper_co.paa",
+              "ValueName": "Trooper",
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Pilot_Corpsmaid_co.paa",
+              "ValueName": "Pilot Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_128"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Pilot_TL_co.paa",
+              "ValueName": "Pilot TL",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_208"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Pilot_Trooper_co.paa",
+              "ValueName": "Pilot Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_48"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Mech_Corpsmaid_co.paa",
+              "ValueName": "Mech Corpsmaid",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_60"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\vests\\MA_ODST_Shoulders_Mech_Trooper_co.paa",
+              "ValueName": "Mech Trooper",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_24"
+            }
+          ]
+        },
+        "chestpmleft": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=Chest Mags",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "chestpmright": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Chest Mags",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "chestpouch": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Chest Pouch",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_4"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "lshoulderradio": {
+          "Action": 2,
+          "OptionName": "Shoulder_Radio_L",
+          "OptionValue": "Yes",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_8"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "odst_bracer_left": {
+          "Action": 2,
+          "OptionName": "odst_bracer_left",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "odst_bracer_right": {
+          "Action": 2,
+          "OptionName": "odst_bracer_right",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "odst_chest": {
+          "Action": 2,
+          "OptionName": "odst_chest",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "odst_left": {
+          "Action": 2,
+          "OptionName": "odst_left",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "odst_right": {
+          "Action": 2,
+          "OptionName": "odst_right",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "rshoulderradio": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Radio",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_16"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "stomachpouch": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Stomach Pouch",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_32"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "torsopmleft": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Torso Mag",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_64"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "torsopmright": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Torso Mag",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_128"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "legpouchl": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Leg Pouch",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "legpouchr": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Leg Pouch",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "torsopouch": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Torso Pouch",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistback": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Back Pouch",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_2"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistgleft": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist Grenades",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistgright": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist Grenades",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistpleft": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist P",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": "Waist P",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistpright": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist P",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": "Waist P",
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistrleft": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist R",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistrright": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist R",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistsright": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist S",
+          "Priority": 1,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_1"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        },
+        "waistsleft": {
+          "Action": 1,
+          "OptionName": "Permutations",
+          "OptionValue": "\u002B=_Waist S",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": null,
+              "ValueName": null,
+              "FirstConfigClassName": "14_M56D_Custom_Vest_0"
+            },
+            {
+              "Value": "",
+              "ValueName": null,
+              "FirstConfigClassName": "14_M52_ODST_Vest_Base"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "MA_Armor\\data\\Helmets\\Human_ODST\\Reach_ODST_Helm.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "CH252D_Helmet",
+      "FirstConfigClassName": "CH252D_Helmet_Trooper",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo1": {
+          "Action": 0,
+          "OptionName": "Colour",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_1_TL_co.paa",
+              "ValueName": "Team 1 TL",
+              "FirstConfigClassName": "CH252D_Helmet_Team1_TL"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_2_TL_co.paa",
+              "ValueName": "Team 2 TL",
+              "FirstConfigClassName": "CH252D_Helmet_Team2_TL"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_3_TL_co.paa",
+              "ValueName": "Team 3 TL",
+              "FirstConfigClassName": "CH252D_Helmet_Team3_TL"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_Actual_TL_co.paa",
+              "ValueName": "Actual TL",
+              "FirstConfigClassName": "CH252D_Helmet_Actual_TL"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_Corpsmaid_co.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "CH252D_Helmet_Corpsmaid"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_Pilot_TL_co.paa",
+              "ValueName": "Pilot TL",
+              "FirstConfigClassName": "CH252D_Helmet_Pilot_TL"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_Trooper_co.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "CH252D_Helmet_Trooper"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Helmet_Mech_TL_co.paa",
+              "ValueName": "Mech TL",
+              "FirstConfigClassName": "CH252D_Helmet_Mech_TL"
+            }
+          ]
+        },
+        "camo2": {
+          "Action": 0,
+          "OptionName": "Visor",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Visor_Gold_co.paa",
+              "ValueName": "Stella",
+              "FirstConfigClassName": "CH252D_Helmet_Nova"
+            },
+            {
+              "Value": "MA_Armor\\data\\Helmets\\Human_ODST\\Color_Variants\\MA_ODST_Visor_CO.paa",
+              "ValueName": "Trooper",
+              "FirstConfigClassName": "CH252D_Helmet_Trooper"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Visor_Red_co.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "CH252D_Helmet_Jes"
+            },
+            {
+              "Value": "14th_aux_mod\\data\\helmets\\MA_ODST_Visor_Purple_co.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "CH252D_Helmet_Nya"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    }
+  ]
+}
